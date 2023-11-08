@@ -1,0 +1,1 @@
+Code is sectioned into folders. Copy the Web code into a pyscript page, copy the PC code to a local IDE, and copy all files into the pico except for "thermistor". This is the main code and running it will compelte the system.
